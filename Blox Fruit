@@ -2017,7 +2017,7 @@ function library:AddWindow(title, options)
 end
 
 do -- Example UI
-	local Window = library:AddWindow("XxMOHESxX - Blox Fruits*", {
+	local Window = library:AddWindow("XxMOHESxX - Blox Fruits", {
 		main_color = Color3.fromRGB(0, 0, 0),
 		min_size = Vector2.new(350, 390),
 		toggle_key = Enum.KeyCode.RightShift,
